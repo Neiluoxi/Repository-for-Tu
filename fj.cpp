@@ -2,17 +2,17 @@
 using namespace std;
 int main()
 {
-	cout << "¸ÃÈí¼şÎªÉÏº£ÊĞÑÓ°²³õ¼¶ÖĞÑ§2020½ìÌØ¹©°æ" << endl;
+	cout << "è¯¥è½¯ä»¶ä¸ºä¸Šæµ·å¸‚å»¶å®‰åˆçº§ä¸­å­¦2020å±Šç‰¹ä¾›ç‰ˆ" << endl;
 	int number = 1;
-	cout << "ÇëÊäÈëÄúµÄ°à¼¶Ñ§ºÅ" << endl;
+	cout << "è¯·è¾“å…¥æ‚¨çš„ç­çº§å­¦å·" << endl;
 	cin>>number;
-	if (number == 1437)
+	if (number == 1434)
 	{
-		cout << "ÄãÃ»¸¹¼¡" << endl;
+		cout << "ä½ æ²¡è…¹è‚Œ" << endl;
 	}
 	else
 	{
-		cout << "ÄãÓĞ¸¹¼¡" << endl;
+		cout << "ä½ æœ‰è…¹è‚Œ" << endl;
 	}
 	system("pause");
 	return 0;
